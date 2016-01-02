@@ -1,0 +1,2 @@
+# localizedString
+Extracts NSLocalizedString 
